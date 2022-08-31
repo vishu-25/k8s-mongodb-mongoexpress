@@ -30,13 +30,13 @@ Once the pods are deployed use
 ``` 
   minkube service mongo-express-service
 ```
-![Alt text](minkibe-service-ss.png)
+![Alt text](img/minkibe-service-ss.png)
 
 Copy paste the link in your browser or wait for minikube to open the link in your default browser
 
 # Output
 
-![Alt text](output.png)
+![Alt text](img/output.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
