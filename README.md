@@ -12,12 +12,13 @@ A simple kubernetes project using Mongo-DB & Mongo-Express to learn about kubern
 ```
 # Downloading files
 ```
- mkdir k8s-project 
+ mkdir k8s-project
  cd k8s-project/
  git clone https://github.com/vishu-25/k8s-mongodb-mongoexpress 
  ```
 # Deploying the pods
 ```
+ cd yaml-files/
  kubectl apply -f mongo-secret.yaml
  kubectl apply -f mongo-configmap.yaml
  kubectl apply -f mongo.yaml
