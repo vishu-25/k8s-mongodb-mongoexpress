@@ -5,7 +5,7 @@ A simple kubernetes project using Mongo-DB & Mongo-Express to learn about kubern
 2) Minikube
 3) Kubernetes
 
-# Staring Docker & Minikube
+# Starting Docker & Minikube
 ```
  systemctl start docker 
  minikube start
