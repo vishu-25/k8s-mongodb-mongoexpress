@@ -30,7 +30,7 @@ Once the pods are deployed use
 ``` 
   minkube service mongo-express-service
 ```
-![Alt text](Screenshot from 2022-08-31 17-03-04.png)
+![Alt text](minkibe-service-ss.png)
 
 Copy paste the link in your browser or wait for minikube to open the link in your default browser
 
